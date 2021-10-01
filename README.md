@@ -11,4 +11,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://miopiaa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
+[<img src="https://miopiaa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/e9291d284097476988fd43fb3406a0f4)
