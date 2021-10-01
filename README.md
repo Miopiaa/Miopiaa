@@ -9,8 +9,6 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- <br> 
-  
- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/31ubwgs77iyl5fltqwjzjf46soza)
-<br/>
-  
+### Spotify Playing 🎧
+
+[<img src="https://miopiaa.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR SPOTIFY USER ID>)
