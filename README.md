@@ -13,3 +13,4 @@
 
   
 
+![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Miopiaa&theme=xcode)
