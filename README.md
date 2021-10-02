@@ -9,9 +9,11 @@
   
 <details>
   <summary>Gráfico De Contribuição</summary>
-  
+ <p> 
+   
  ![Mitul's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Miopiaa&theme=xcode)
-  
+   
+ </p> 
 </details>
   
 <div style="display: inline_block"><br>
