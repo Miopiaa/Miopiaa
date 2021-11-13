@@ -5,7 +5,7 @@
 
 ## Informações públicas
 
-Meu nome é Rafael Felipe. Atualmente moro em curitiba, Brazil e no momento estudo sobre tecnologia com foco em back-end.
+Meu nome é Rafael Felipe. Atualmente moro em curitiba, Brasil e no momento estudo tecnologia com foco em back-end.
 
 ## Informação detalhada
 
