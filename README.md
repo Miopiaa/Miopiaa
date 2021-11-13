@@ -20,4 +20,5 @@ Meu nome é Rafael Felipe. Atualmente moro em curitiba, Brazil e no momento estu
 
 * Eu sempre gostei de música, e atualmente estou tentando aprender guitarra.   
 * Sou extremamente apaixonado pela vida animal, meu sonho de criança era ser biólogo.  
+* Gosto muito de macaco e árvore.
 
