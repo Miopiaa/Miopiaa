@@ -1,5 +1,9 @@
 <!--<img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/FFICO022.PNG" alt="nao deu"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miopiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Miopiaa" /> </p>-->
+<div>
+    <a target='_blank' href="https://www.notion.so/Ci-ncia-de-dados-4079194a4d0448c1a167a850fdf10ac8">
+        <img src="https://img.shields.io/badge/-Notion-black" target='_blank'>
+</div>      
 
 ## Boa tarde!
 
