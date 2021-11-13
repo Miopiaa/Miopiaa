@@ -7,7 +7,7 @@
 
 Meu nome é Rafael Felipe. Atualmente moro em curitiba, Brazil e no momento estudo sobre tecnologia com foco em back-end.
 
-## Um pouco sobre mim
+## Informação detalhada
 
 <ul>
   <li> Nome: Rafael Felipe Martins
