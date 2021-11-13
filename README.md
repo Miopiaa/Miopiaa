@@ -1,15 +1,7 @@
 <!--<img src="https://raw.githubusercontent.com/mRB0/many-windows-3.1-icons-in-png-format/master/FFICO022.PNG" alt="nao deu"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Miopiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Miopiaa" /> </p>-->
 
-<div>
-    </a>
-    <a target='_blank' href="https://instagram.com/danielhe4rt">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a target='_blank' href="https://linkedin.com/in/danielheart">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-</div>
+## Boa tarde!
 
 ## Informações públicas
 
