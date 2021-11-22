@@ -1,5 +1,5 @@
 <div>
-    <a target='_blank' href="https://www.notion.so/Ci-ncia-de-dados-4079194a4d0448c1a167a850fdf10ac8">
+    <a target='_blank' href="https://www.notion.so/MySql-7c684f2e63804c8593e1f1869bf48cf4">
         <img src="https://img.shields.io/badge/-Notion-white">
 </div>   
 
