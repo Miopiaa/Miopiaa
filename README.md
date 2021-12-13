@@ -11,7 +11,6 @@
 ## Informações públicas
     
 <!--START_SECTION:waka-->
-    
 <!--END_SECTION:waka-->
 
 Meu nome é Rafael Felipe. Atualmente vivo em curitiba, Brasil e no momento estudo tecnologia com foco em back-end.
