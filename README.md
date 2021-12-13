@@ -7,7 +7,7 @@
 
 ## Boa tarde!
     
-![oni](https://user-images.githubusercontent.com/57761831/145875946-f43e7cf2-217f-4315-864d-87a675e1d367.gif)
+![olho](https://user-images.githubusercontent.com/57761831/145875949-ee757989-f58d-48ef-b69a-eddda4e8e4bd.gif)
 
 ## Informações públicas
 
