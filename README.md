@@ -6,6 +6,8 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miopiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Miopiaa" /> </p>-->   
 
 ## Boa tarde!
+    
+ ![slayer2](https://user-images.githubusercontent.com/57761831/145873944-0097f57d-7b8e-450c-8913-c6d472f0db52.gif)
 
 ## Informações públicas
 
