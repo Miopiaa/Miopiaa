@@ -6,7 +6,7 @@
 
 ## Boa tarde!
 
-![batman](https://user-images.githubusercontent.com/57761831/145877467-932f6645-bf5f-4b45-aa3d-f72a422e5b0f.gif)
+![ganagr](https://user-images.githubusercontent.com/57761831/145878283-38cdb032-a07c-4b35-a094-c49f1c4271b6.gif)
  
 
 ## Informações públicas
