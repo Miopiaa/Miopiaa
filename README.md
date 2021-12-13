@@ -8,7 +8,7 @@
 ## Boa tarde!
     
  
- ![mocadandotchau](https://user-images.githubusercontent.com/57761831/145874760-9a9ebd9f-df09-4ab5-8cf7-ebf6644695af.gif)
+![mickey](https://user-images.githubusercontent.com/57761831/145874767-1ab32ff3-28a4-44b7-9db4-5dbb5a3d8167.gif)
 
 ## Informações públicas
 
