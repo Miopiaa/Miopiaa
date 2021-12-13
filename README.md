@@ -9,6 +9,9 @@
 ![testegangar](https://user-images.githubusercontent.com/57761831/145878829-6516efec-2c64-4472-912c-6757e46bb1bf.gif)
 
 ## Informações públicas
+    
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 Meu nome é Rafael Felipe. Atualmente vivo em curitiba, Brasil e no momento estudo tecnologia com foco em back-end.
 
