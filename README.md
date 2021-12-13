@@ -7,7 +7,8 @@
 
 ## Boa tarde!
     
- ![slayer2](https://user-images.githubusercontent.com/57761831/145873944-0097f57d-7b8e-450c-8913-c6d472f0db52.gif)
+ 
+ ![mocadandotchau](https://user-images.githubusercontent.com/57761831/145874760-9a9ebd9f-df09-4ab5-8cf7-ebf6644695af.gif)
 
 ## Informações públicas
 
