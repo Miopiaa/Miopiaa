@@ -2,12 +2,11 @@
     <a target='_blank' href="https://www.notion.so/MySql-7c684f2e63804c8593e1f1869bf48cf4">
         <img src="https://img.shields.io/badge/-Notion-white">
 </div>   
-
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miopiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Miopiaa" /> </p>-->   
 
 ## Boa tarde!
 
-![oni](https://user-images.githubusercontent.com/57761831/145875946-f43e7cf2-217f-4315-864d-87a675e1d367.gif) 
+![batman](https://user-images.githubusercontent.com/57761831/145877467-932f6645-bf5f-4b45-aa3d-f72a422e5b0f.gif)
  
 
 ## Informações públicas
