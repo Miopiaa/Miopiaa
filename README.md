@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
    
-   <a target='_blank' href="https://discord.com/channels/920444434762592296/920444435253301271">
+   <a target='_blank' href="https://discord.gg/PUQmFUZ582">
    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
    </a>
   
