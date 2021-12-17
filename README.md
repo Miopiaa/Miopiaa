@@ -19,7 +19,7 @@
 
 ![testegangar](https://user-images.githubusercontent.com/57761831/145878829-6516efec-2c64-4472-912c-6757e46bb1bf.gif)
 
-## Informações públicas
+
     
 <!--START_SECTION:waka-->
 ```text
@@ -27,6 +27,8 @@ PHP     1 hr 13 mins    ██████████████████�
 Text    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 <!--END_SECTION:waka-->
+
+## Informações públicas
 
 Meu nome é Rafael Felipe. Atualmente vivo em curitiba, Brasil e no momento estudo tecnologia com foco em back-end.
 
