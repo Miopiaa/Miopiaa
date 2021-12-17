@@ -7,6 +7,11 @@
   <a target='_blank' href="https://www.linkedin.com/in/rafael-felipe-109272223/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
+   
+   <a target='_blank' href="https://discord.com/channels/920444434762592296/920444435253301271">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+   </a>
+  
  
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miopiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Miopiaa" /> </p>-->   
 
