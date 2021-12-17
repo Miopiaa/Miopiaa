@@ -1,7 +1,13 @@
-<div>
-    <a target='_blank' href="https://www.notion.so/MySql-7c684f2e63804c8593e1f1869bf48cf4">
-        <img src="https://img.shields.io/badge/-Notion-white">
-</div>   
+
+
+  <a target='_blank' href="https://www.notion.so/MySql-7c684f2e63804c8593e1f1869bf48cf4">
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  </a>
+
+  <a target='_blank' href="https://www.linkedin.com/in/rafael-felipe-109272223/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+   </a>
+ 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miopiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Miopiaa" /> </p>-->   
 
 ## Boa tarde!
