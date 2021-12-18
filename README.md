@@ -4,7 +4,7 @@
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
 
-  <a target='_blank' href="https://www.linkedin.com/in/rafael-felipe-109272223/">
+  <a target='_blank' href="https://www.linkedin.com/in/rafaelfelipemartins/">
    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
    </a>
    
