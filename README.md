@@ -17,7 +17,10 @@
 
 ## Boa tarde!
 
-![testegangar](https://user-images.githubusercontent.com/57761831/145878829-6516efec-2c64-4472-912c-6757e46bb1bf.gif)
+![fan](https://user-images.githubusercontent.com/57761831/146652926-cc5cf3a1-0659-488d-8e32-de6914915b0b.gif)
+
+
+
 
 
     
