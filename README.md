@@ -27,11 +27,8 @@ C       2 mins          ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-## Informações públicas
 
-Meu nome é Rafael Felipe. Atualmente vivo em curitiba, Brasil e no momento estudo tecnologia com foco em back-end.
-
-## Informação detalhada
+## Informação 
 
 <ul>
   <li> Nome: Rafael Felipe Martins
