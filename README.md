@@ -22,8 +22,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP   2 hrs 8 mins    ████████████████████████░   95.90 % 
-CSS   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+PHP             1 hr 47 mins    ███████████████████████▓░   95.33 % 
+Apache Config   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 ```
 <!--END_SECTION:waka-->
 
