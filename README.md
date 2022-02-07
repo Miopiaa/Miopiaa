@@ -27,7 +27,7 @@ Apache Config   4 mins          ▒░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-
+<!--
 ## Informação 
 
 <ul>
@@ -36,11 +36,7 @@ Apache Config   4 mins          ▒░░░░░░░░░░░░░░░
   <li> Stack: Não definido 
   <li> Faculdade: Nope  
 </ul>
+-->
 
-## Curiosidades sobre mim
-
-* Eu sempre gostei de música, e atualmente estou tentando aprender guitarra.   
-* Amo a vida animal, meu sonho de criança era ser biólogo.  
-* Gosto muito de macaco e árvore.
 
 ![judite1](https://user-images.githubusercontent.com/57761831/144719189-7d7e11bd-8eb3-4dd3-94f3-23ef3fd6eab8.jpg)
