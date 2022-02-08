@@ -22,8 +22,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-PHP             4 hrs 31 mins   ████████████████████████▓   98.05 % 
-Apache Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+PHP     3 hrs 8 mins    █████████████████████████   99.93 % 
 ```
 <!--END_SECTION:waka-->
 
