@@ -22,9 +22,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 6 hrs 2 mins
+Total: 5 hrs 40 mins
 
-PHP   6 hrs 2 mins    █████████████████████████   100.00 % 
+PHP   5 hrs 40 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
