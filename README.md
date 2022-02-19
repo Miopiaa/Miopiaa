@@ -22,8 +22,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 2 hrs 48 mins
-
 PHP   2 hrs 48 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
