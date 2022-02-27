@@ -21,9 +21,11 @@
 ![testegangar](https://user-images.githubusercontent.com/57761831/145878829-6516efec-2c64-4472-912c-6757e46bb1bf.gif)
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
