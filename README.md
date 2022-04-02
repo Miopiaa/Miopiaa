@@ -1,6 +1,6 @@
 
 
-  <a target='_blank' href="https://www.notion.so/MySql-7c684f2e63804c8593e1f1869bf48cf4">
+  <a target='_blank' href="https://cactus-sneezeweed-208.notion.site/Normaliza-o-de-Dados-5d6cd99ccc164dda8dbbd4213518b2b4">
    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   </a>
 
