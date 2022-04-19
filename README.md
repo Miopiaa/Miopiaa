@@ -23,8 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP      3 hrs 22 mins   ████████████████████████▓   98.28 %
-Python   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
