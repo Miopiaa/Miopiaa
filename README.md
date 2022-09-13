@@ -23,8 +23,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js   3 hrs 14 mins   █████████████████████████   99.98 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Vue.js   3 hrs 53 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
