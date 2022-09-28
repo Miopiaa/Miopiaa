@@ -16,6 +16,8 @@
  
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miopiaa&label=Profile%20views&color=0e75b6&style=flat" alt="Miopiaa" /> </p>-->   
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=miopia)](https://holopin.io/@miopia)
+
 ## Boa tarde!
 
 ![testegangar](https://user-images.githubusercontent.com/57761831/145878829-6516efec-2c64-4472-912c-6757e46bb1bf.gif)
